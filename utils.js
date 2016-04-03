@@ -7,7 +7,7 @@ var request = require('request')
   , flat = require('flat')
   , HERCULES_BASE_URL = 'http://api.localhost.io:5000'
 
-//test comment updated
+//test comment updated again
 
 var utils = {
 
