@@ -8,6 +8,7 @@ var request = require('request')
   , HERCULES_BASE_URL = 'http://api.localhost.io:5000'
 
 //test comment
+//test comment 2
 
 var utils = {
 
